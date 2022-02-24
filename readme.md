@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaraouini" alt="omaraouini" /></a> </p>
 
-- 🌱 I’m currently learning: **Go Fiber, Rust, Actix-Web, Next.js**
+- 🌱 I’m currently learning: **Go, Rust, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarAouini](https://github.com/OmarAouini)
 
