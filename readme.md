@@ -1,11 +1,10 @@
 # Hi! 👋 
-## a passionate software developer
 > _code is like humor. when you have to explain it, it’s bad._
 > -- <cite>Cory House</cite>
 >
 
 <p>
-Welcome! </br> I'm Omar, Software developer.
+Welcome! </br> I'm Omar, a passionate software developer.
 
 i'm based in <b>Milan, Italy</b>.
 </p>
