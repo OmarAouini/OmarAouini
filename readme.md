@@ -1,5 +1,5 @@
 <h1>:wave: Hey There!</h1>
-<p>Welcome to my page! </br> I'm Omar, sofware developer from <img src="https://www.flaticon.com/free-icon/italy_6211426" width="13"/> <b>Milan, Italy.</b></p>
+<p>Welcome to my page! </br> I'm Omar, sofware developer from <b>Milan, :it:</b></p>
 <br/>
 
    ------------
