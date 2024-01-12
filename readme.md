@@ -70,4 +70,18 @@
 ------------
     
    <h3>:bar_chart: Boring stats</h3>
-   <img src="https://github-readme-stats.vercel.app/api?username=OmarAouini&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=gruvbox"/>
+   <div>
+      
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAouini&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true&theme=gruvbox"/>
+
+  <div> 
+      
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAouini&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+     
+   </div>
+   
+   </div>
+
+
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=OmarAouini&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://git.io/streak-stats)
+   
